@@ -3,7 +3,6 @@ title: "Assessing the efficacy of VR for foreign language learning using multimo
 collection: publications
 permalink: /publications/Paper1
 excerpt: 'Paper 1'
-date: 2019
 venue: 'Professional development in CALL: a selection of papers'
 paperurl: ' https://doi.org/10.14705/rpnet.2019.28.873'
 citation: 'Gorham, T., Jubaed, S., Sanyal, T., & Starr, E. L. (2019). Assessing the efficacy of VR for foreign
