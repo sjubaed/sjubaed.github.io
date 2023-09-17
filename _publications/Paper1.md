@@ -1,7 +1,7 @@
 ---
 title: "Assessing the efficacy of VR for foreign language learning using multimodal learning analytics"
 collection: publications
-permalink: /publication/Paper1
+permalink: /publications/Paper1
 excerpt: 'Paper 1'
 date: 2019
 venue: 'Professional development in CALL: a selection of papers'
