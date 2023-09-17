@@ -1,7 +1,7 @@
 ---
 title: "Analysis of the Census 2020 Count in Detroit"
 collection: publications
-permalink: /publications/Paper3
+permalink: 'http://sites.fordschool.umich.edu/poverty2021/files/2021/12/PovertySolutions-Census-Undercount-in-Detroit-PolicyBrief-December2021.pdf'
 excerpt: ''
 date: '2021-01-01'
 venue: 'Poverty Solutions'
