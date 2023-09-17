@@ -1,7 +1,7 @@
 ---
 title: "Understanding Job (Mis)Match: Jobs and Jobseekers in Detroit"
 collection: publications
-permalink: /publication/Paper2
+permalink: /publications/Paper2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2020
 venue: 'Poverty Solutions Working Papers'
