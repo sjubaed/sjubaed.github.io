@@ -8,12 +8,12 @@ author_profile: true
 All courses below were taught at CUNY Hunter College between Spring 2010 and Summer 2016.
 
 ## Math 260 (Linear Algebra)
-Semesters taught: Fall 2012,
+Semesters taught: Fall 2012,\
                   Spring (2013, 2014, 2015, 2016)
 
 ## Math 150/155 (Calculus with Analytic Geometry I and II)
-Semesters taught: Fall (2010, 2011, 2012, 2013, 2014, 2015),
-                  Spring (2011, 2012, 2016),
+Semesters taught: Fall (2010, 2011, 2012, 2013, 2014, 2015),\
+                  Spring (2011, 2012, 2016),\
                   Summer (2011, 2016)
 
 ## Math 156 (Introduction to Mathematical Proofs)
