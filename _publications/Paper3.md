@@ -3,7 +3,6 @@ title: "Analysis of the Census 2020 Count in Detroit"
 collection: publications
 permalink: /publications/Paper3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2021
 venue: 'Poverty Solutions'
 paperurl: 'http://sites.fordschool.umich.edu/poverty2021/files/2021/12/PovertySolutions-Census-Undercount-
 in-Detroit-PolicyBrief-December2021.pdf'
