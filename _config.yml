@@ -84,12 +84,12 @@ author:
   avatar           : "profile.png"
   bio              : "Senior Data and Policy Analyst"
   location         : "Pittsburgh, PA"
-  employer         :
+  employer         : "https://poverty.umich.edu"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=TwIJ6FMAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/Samiul-Jubaed"
-  uri              :
+  researchgate     : "https://www.researchgate.net/profile/Samiul-Jubaed"
+  uri              : ""
   bitbucket        :
   codepen          :
   dribbble         :
