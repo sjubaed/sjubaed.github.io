@@ -1,10 +1,14 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: "Talks and Presentations"
 permalink: /talks/
 author_profile: true
 ---
 
+* [Michigan Radio: Stateside](https://www.michiganradio.org/show/stateside/2022-04-19/stateside-tuesday-april-19-2022)
+* [First Focus on Children](https://join.firstfocus.org/kidsandcovid)
+
+<!---
 {% if site.talkmap_link == true %}
 
 <p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
@@ -14,3 +18,4 @@ author_profile: true
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
 {% endfor %}
+--->
