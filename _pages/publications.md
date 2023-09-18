@@ -21,7 +21,8 @@ ul {
 
 * Gorham, T., **Jubaed, S.**, Sanyal, T., & Starr, E. L. (2019). [Assessing the efficacy of VR for foreign language learning using multimodal learning analytics.](https://doi.org/10.14705/rpnet.2019.28.873) In C. N. Giannikas, E. Kakoulli Constantinou & S. Papadima-Sophocleous (Eds), Professional development in CALL: a selection of papers (pp. 101–116). Research-publishing.net.
 
-<!---{% if author.googlescholar %}
+<!--
+{% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
@@ -30,4 +31,4 @@ ul {
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
-<---!>
+--->
