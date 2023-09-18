@@ -7,7 +7,7 @@ author_profile: true
 
 <style>
 ul {
-i  list-style-type: bengali;
+i  list-style-type: square;
 }
 </style>
 
