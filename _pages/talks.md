@@ -5,8 +5,8 @@ permalink: /talks/
 author_profile: true
 ---
 
-* [Michigan Radio: Stateside](https://www.michiganradio.org/show/stateside/2022-04-19/stateside-tuesday-april-19-2022)
-* [First Focus on Children](https://join.firstfocus.org/kidsandcovid)
+* [Michigan Radio: Stateside](https://www.michiganradio.org/show/stateside/2022-04-19/stateside-tuesday-april-19-2022), _April 19, 2022_
+* [First Focus on Children](https://join.firstfocus.org/kidsandcovid), _April 20, 2022_
 
 <!---
 {% if site.talkmap_link == true %}
