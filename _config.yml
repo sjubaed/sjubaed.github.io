@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Samiul Jubaed"
   avatar           : "profile.png"
-  bio              : "Senior Data and Policy Analyst at Poverty Solutions, University of Michigan"
+  bio              : "Senior Data and Policy Analyst"
   location         : "Pittsburgh, PA / Remote"
-  employer         :
+  employer         : "Poverty Solutions, University of Michigan"
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=TwIJ6FMAAAAJ&hl=en"
+  googlescholar    : #"https://scholar.google.com/citations?user=TwIJ6FMAAAAJ&hl=en"
   email            :
-  researchgate     : "https://www.researchgate.net/profile/Samiul-Jubaed"
+  researchgate     : #"https://www.researchgate.net/profile/Samiul-Jubaed"
   uri              :
   bitbucket        :
   codepen          :
