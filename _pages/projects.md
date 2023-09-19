@@ -5,11 +5,16 @@ permalink: /projects/
 author_profile: true
 ---
 
-### [Food Security in Michigan](https://food-security.fordschool.umich.edu/)
-* Built using ArcGIS and React
-### [Index of Deep Disadvantage](https://tableau.dsc.umich.edu/t/UM-Public/views/new_IDD_map_060223/MainDash?:embed_code_version=3&:embed=y&:loadOrderID=0&:display_spinner=no&:showAppBanner=false&:display_count=n&:showVizHome=n&:origin=viz_share_link)
-* Built using Tableau
+The following are some visualizations/dashboards I've developed through the work of Poverty Solutions.
 
+## [Food Security in Michigan](https://food-security.fordschool.umich.edu/)
+* Built using ArcGIS and React
+* Developed for Michigan Department Health and Human Services
+## [Index of Deep Disadvantage](https://tableau.dsc.umich.edu/t/UM-Public/views/new_IDD_map_060223/MainDash?:embed_code_version=3&:embed=y&:loadOrderID=0&:display_spinner=no&:showAppBanner=false&:display_count=n&:showVizHome=n&:origin=viz_share_link)
+* Built using Tableau
+* Developed in support of the release of _The Injustice of Place_ by Kathy Edin, Luke Shaefer, and Timothy Nelson
+
+## Minor Projects
 Below are some minor projects I've worked on during my time at Poverty Solutions.
 * [Historical Poverty Rates in Detroit](http://www-personal.umich.edu/~sjubaed/Detroit_poverty_tracts.html)
   * Built using R Leaflet 
