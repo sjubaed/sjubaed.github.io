@@ -17,16 +17,16 @@ The following are some visualizations/dashboards I've developed through the work
 
 ## Minor Projects
 Below are some minor projects I've worked on during my time at Poverty Solutions.
-* [Historical Poverty Rates in Detroit](http://www-personal.umich.edu/~sjubaed/Detroit_poverty_tracts.html)
-  * Built using **R Leaflet**
-* [Percent of Detroiters Living Below 200% of Federal Poverty Line](http://www-personal.umich.edu/~sjubaed/Detroit_FPL_tracts.html)
-  * Built using **R Leaflet**
-* [Auto Insurance Rates in Michigan (2019-2020)](http://www-personal.umich.edu/~sjubaed/michigan_autoinsurance.html)
-  * Built using **R Shiny**
-* Hardship Index
-  * [standard tracts](http://www-personal.umich.edu/~sjubaed/MI_choropleth_hardship_Jubaed.html)
-  * [aggregated tracts](http://www-personal.umich.edu/~sjubaed/MI_choropleth_hardship_Jubaed_aggregated.html)
-  * Built using **R Leaflet**
+#### [Historical Poverty Rates in Detroit](http://www-personal.umich.edu/~sjubaed/Detroit_poverty_tracts.html)
+* Built using **R Leaflet**
+#### [Percent of Detroiters Living Below 200% of Federal Poverty Line](http://www-personal.umich.edu/~sjubaed/Detroit_FPL_tracts.html)
+* Built using **R Leaflet**
+#### [Auto Insurance Rates in Michigan (2019-2020)](http://www-personal.umich.edu/~sjubaed/michigan_autoinsurance.html)
+* Built using **R Shiny**
+#### Hardship Index
+* [standard tracts](http://www-personal.umich.edu/~sjubaed/MI_choropleth_hardship_Jubaed.html)
+* [aggregated tracts](http://www-personal.umich.edu/~sjubaed/MI_choropleth_hardship_Jubaed_aggregated.html)
+* Built using **R Leaflet**
 
 <!--
 #{% include base_path %}
