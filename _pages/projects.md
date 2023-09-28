@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-The following are some visualizations/dashboards I've developed through the work of Poverty Solutions.
+The following are some visualizations/dashboards I've developed while at Poverty Solutions.
 
 ## Major Projects
 ### [Food Security in Michigan](https://food-security.fordschool.umich.edu/)
