@@ -10,7 +10,7 @@ The following are some visualizations/dashboards I've developed while at Poverty
 ## Major Projects
 ### [Food Security in Michigan](https://food-security.fordschool.umich.edu/)
 * Built using **ArcGIS** and **React**
-* Developed for Michigan Department Health and Human Services
+* Developed for Michigan Department Health and Human Services (MDHHS)
 
 ### [Index of Deep Disadvantage](https://tableau.dsc.umich.edu/t/UM-Public/views/new_IDD_map_060223/MainDash?:embed_code_version=3&:embed=y&:loadOrderID=0&:display_spinner=no&:showAppBanner=false&:display_count=n&:showVizHome=n&:origin=viz_share_link)
 * Built using **Tableau**
@@ -29,9 +29,14 @@ Below are some minor projects I've worked on during my time at Poverty Solutions
 * Built using **R Shiny**
 
 ### Hardship Index
-* [standard tracts](http://www-personal.umich.edu/~sjubaed/MI_choropleth_hardship_Jubaed.html)
-* [aggregated tracts](http://www-personal.umich.edu/~sjubaed/MI_choropleth_hardship_Jubaed_aggregated.html)
 * Built using **R Leaflet**
+* [standard tracts](http://www-personal.umich.edu/~sjubaed/MI_choropleth_hardship_Jubaed.html)
+  * Constructed by standardizing select ACS variables to create z-scores and summing the result. The resulting index was then normalized to be between 0 and 100, with a higher value representing an area of greater need
+  * Census tracts with a larger Hardship Index should be prioritized over those with a smaller Index
+* [aggregated tracts](http://www-personal.umich.edu/~sjubaed/MI_choropleth_hardship_Jubaed_aggregated.html)
+  * Aggregates smaller census tracts with an appropriate neighboring tract such that their combined population was >= 1200
+  * Done to minimize dropped tracts
+* Developed for [Center for Health & Research Transformation](https://chrt.org/) and MDHHS to help prioritize census tracts in Michigan to send community health workers
 
 <!--
 #{% include base_path %}
