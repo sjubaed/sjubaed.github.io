@@ -16,6 +16,9 @@ The following are some visualizations/dashboards I've developed while at Poverty
 * Built using **Tableau**
 * Developed in support of the release of [_The Injustice of Place_](https://poverty.umich.edu/research-funding-opportunities/data-tools/understanding-communities-of-deep-disadvantage/) by Kathy Edin, Luke Shaefer, and Timothy Nelson
 
+### [Michigan Poverty & Well-Being Map(https://poverty.umich.edu/research-funding-opportunities/data-tools/michigan-poverty-well-being-map/)]
+* Built using **Tableau**
+
 ## Minor Projects
 Below are some minor projects I've worked on during my time at Poverty Solutions.
 
